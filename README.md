@@ -1,2 +1,1 @@
-# Algorithm
-Algorithm
+This is personal Algorithm practice
